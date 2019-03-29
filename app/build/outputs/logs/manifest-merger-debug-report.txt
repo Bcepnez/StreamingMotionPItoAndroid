@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.github.dydwo92:Android-Simple-MjpegViewer:0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\Android-Simple-MjpegViewer-0.0.aar\887998fddc0864f700863bb3f222aa92\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\d705ce706b31c14d1a299966a679e061\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\fc26dba9fe5abb3d7ba0325d963ef884\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8c77b36e35876f2090deb09f57aa6ffb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\4fef89deb87b1cb18b7073f9cdacf72b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\feec6e5fd79dbe901162df2b64c2d6c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f5a7c0f63c6f840e0225d85ec561621b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\af0e3a4cf2df85a4501c44a067fb71ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1c015dc5611428db2b729afe8faeed60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\55b528b863c0d6931faabdd43e4038e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\87a8686ca42e5046ec2ea1a753bce983\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9194f2142cde62e8d03250365f25a05e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\06b537a4a5b0a41911346801fdb7b254\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\86b195e98a0d94dc644b9b1c94b6372e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\7a418f03af1703c8673e88219f4692c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\55e6c60a54da357a465cf05fd0bdae71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e7fba6e8ea895b745bf743dbac697e9e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d0b9b6d1a191bb215114121e11d4fd9e\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ef4c5c8bb3ed1224e20e3fa0bc3c291b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\9603b1faf98c5fac69fb8a3b633487c9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b0a895bddb2949df21f2526fdbc2a2f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\8637edbff4e11d9d2f5f890f62c3fb3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\85027137deb00b846286a562af12330a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ed98654c2e2d3c3777819c9de7e88355\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\dec9f2292e8b3f6ebe3d828bb4495bc7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\38e761625f1675af1d8374b0adadfbdf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\4944265b27b914535ab1f2571da3ef1f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\df27eb571818c36af87a6750a30abbdb\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.github.dydwo92:Android-Simple-MjpegViewer:0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\Android-Simple-MjpegViewer-0.0.aar\887998fddc0864f700863bb3f222aa92\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.dydwo92:Android-Simple-MjpegViewer:0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\Android-Simple-MjpegViewer-0.0.aar\887998fddc0864f700863bb3f222aa92\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\fc26dba9fe5abb3d7ba0325d963ef884\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\fc26dba9fe5abb3d7ba0325d963ef884\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e7fba6e8ea895b745bf743dbac697e9e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e7fba6e8ea895b745bf743dbac697e9e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d0b9b6d1a191bb215114121e11d4fd9e\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d0b9b6d1a191bb215114121e11d4fd9e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e7fba6e8ea895b745bf743dbac697e9e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:12:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:10:9-44
+activity#com.example.streamingapp.MainActivity
+ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:14:13-50
+	android:name
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:19:27-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml:23:22-64
+uses-sdk
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+MERGED from [com.github.dydwo92:Android-Simple-MjpegViewer:0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\Android-Simple-MjpegViewer-0.0.aar\887998fddc0864f700863bb3f222aa92\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dydwo92:Android-Simple-MjpegViewer:0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\Android-Simple-MjpegViewer-0.0.aar\887998fddc0864f700863bb3f222aa92\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\d705ce706b31c14d1a299966a679e061\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\d705ce706b31c14d1a299966a679e061\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\fc26dba9fe5abb3d7ba0325d963ef884\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\fc26dba9fe5abb3d7ba0325d963ef884\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8c77b36e35876f2090deb09f57aa6ffb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8c77b36e35876f2090deb09f57aa6ffb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\4fef89deb87b1cb18b7073f9cdacf72b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\4fef89deb87b1cb18b7073f9cdacf72b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\feec6e5fd79dbe901162df2b64c2d6c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\feec6e5fd79dbe901162df2b64c2d6c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f5a7c0f63c6f840e0225d85ec561621b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f5a7c0f63c6f840e0225d85ec561621b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\af0e3a4cf2df85a4501c44a067fb71ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\af0e3a4cf2df85a4501c44a067fb71ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1c015dc5611428db2b729afe8faeed60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1c015dc5611428db2b729afe8faeed60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\55b528b863c0d6931faabdd43e4038e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\55b528b863c0d6931faabdd43e4038e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\87a8686ca42e5046ec2ea1a753bce983\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\87a8686ca42e5046ec2ea1a753bce983\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9194f2142cde62e8d03250365f25a05e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9194f2142cde62e8d03250365f25a05e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\06b537a4a5b0a41911346801fdb7b254\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\06b537a4a5b0a41911346801fdb7b254\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\86b195e98a0d94dc644b9b1c94b6372e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\86b195e98a0d94dc644b9b1c94b6372e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\7a418f03af1703c8673e88219f4692c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\7a418f03af1703c8673e88219f4692c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\55e6c60a54da357a465cf05fd0bdae71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\55e6c60a54da357a465cf05fd0bdae71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e7fba6e8ea895b745bf743dbac697e9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\e7fba6e8ea895b745bf743dbac697e9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d0b9b6d1a191bb215114121e11d4fd9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d0b9b6d1a191bb215114121e11d4fd9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ef4c5c8bb3ed1224e20e3fa0bc3c291b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\ef4c5c8bb3ed1224e20e3fa0bc3c291b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\9603b1faf98c5fac69fb8a3b633487c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\9603b1faf98c5fac69fb8a3b633487c9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b0a895bddb2949df21f2526fdbc2a2f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b0a895bddb2949df21f2526fdbc2a2f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\8637edbff4e11d9d2f5f890f62c3fb3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\8637edbff4e11d9d2f5f890f62c3fb3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\85027137deb00b846286a562af12330a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\85027137deb00b846286a562af12330a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ed98654c2e2d3c3777819c9de7e88355\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ed98654c2e2d3c3777819c9de7e88355\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\dec9f2292e8b3f6ebe3d828bb4495bc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\dec9f2292e8b3f6ebe3d828bb4495bc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\38e761625f1675af1d8374b0adadfbdf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\38e761625f1675af1d8374b0adadfbdf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\4944265b27b914535ab1f2571da3ef1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\4944265b27b914535ab1f2571da3ef1f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\df27eb571818c36af87a6750a30abbdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BenzRST\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\df27eb571818c36af87a6750a30abbdb\AndroidManifest.xml:20:5-44
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\androidWorkspace\StreamingApp\app\src\main\AndroidManifest.xml
